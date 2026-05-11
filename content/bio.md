@@ -1,3 +1,1 @@
-I am a PhD student at the Research Institute for Sport and Exercise Science, Liverpool John Moores University, UK. My research focuses on developing
-frameworks for building digital twins for athletes using machine learning, wearable technology and computer simulation to monitor musculoskeletal
-loads in the field.
+Accounting & Analytics postgraduate at TCD with a year of experience in large-scale financial environments. Expert at managing accounts payable, general ledger reconciliations, and cash flow monitoring for multi-million EURO operations. Skilled in advanced Excel, Power BI, and Xero, I am a fast learner and a dedicated team player focused on delivering accuracy and efficiency in fast-paced finance teams.
