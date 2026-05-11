@@ -2,7 +2,7 @@ type = "about"
 title = "About"
 
 [profile]
-Career_Interests = [
+Interests = [
   "Audit & Assurance",
   "Financial Control & Treasury Operations",
   "Financial Analysis & Valuation",
