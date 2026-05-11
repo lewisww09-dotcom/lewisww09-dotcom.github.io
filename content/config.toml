@@ -1,8 +1,8 @@
 [site]
-title = "Zhenyuan Zhang"
-description = "PhD student at Liverpool John Moores University."
+title = "LEWIS WANG"
+description = "MSc Accounting and Analytics at Trinity College Dublin."
 favicon = "/favicon.svg"
-last_updated = "December 5, 2025"
+last_updated = "11 MAY, 2026"
 
 [author]
 name = "Zhenyuan Zhang"
@@ -13,16 +13,16 @@ avatar = "/IMG_2649.jpg"
 [social]
 # Contact information (leave blank or delete to hide)
 
-email = "Z.Zhang@2023.ljmu.ac.uk"
-location = "Liverpool, UK"
+email = "lewisww09@gmail.com"
+location = "Dublin, Ireland"
 # location_url = "https://maps.google.com"
 location_details = [
-  "Liverpool, UK",
+  "Dublin, Ireland",
 ]
 google_scholar = "https://scholar.google.com/citations?user=u2bn2HsAAAAJ&hl=en"
 # orcid = "https://orcid.org"
-github = "https://github.com/ClayZhang999"
-linkedin = "https://www.linkedin.com/in/zhenyuan-zhang-661359204/"
+github = "https://github.com/lewis09-dotcom.github.io"
+linkedin = "http://linkedin.com/in/lewiswang0927"
 
 [features]
 # Show a like button on the about page
