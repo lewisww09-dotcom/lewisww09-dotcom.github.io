@@ -2,11 +2,11 @@ type = "about"
 title = "About"
 
 [profile]
-research_interests = [
-  "Human Movement Biomechanics",
-  "Computer Simulations",
-  "Machine Learning in Sports Science",
-  "Wearable Technology",
+Career_Interests = [
+  "Audit & Assurance",
+  "Financial Control & Treasury Operations",
+  "Financial Analysis & Valuation",
+  "Deal Advisory & Transaction Services",
 ]
 
 [[sections]]
