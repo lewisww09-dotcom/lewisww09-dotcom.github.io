@@ -1,5 +1,5 @@
 type = "pdf"
 title = "CV"
-source = "/CV_Lewis_Wang.pdf"
+source = "/CV_Lewis_Wang.pdf.pdf"
 height = "1000px"
 downloadable = false
